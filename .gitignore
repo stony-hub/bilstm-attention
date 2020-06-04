@@ -7,4 +7,6 @@ __pycache__/
 .vector_cache
 data
 model
+lstm
+lstm.rar
 test.ipynb
